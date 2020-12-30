@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Barbara Class</title>
+    <link>https://barbaraclass.com/categories/</link>
+      <atom:link href="https://barbaraclass.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://barbaraclass.com/media/BClass.png</url>
+      <title>Categories</title>
+      <link>https://barbaraclass.com/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

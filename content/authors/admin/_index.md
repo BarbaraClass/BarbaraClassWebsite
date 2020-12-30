@@ -43,6 +43,6 @@ title: Barbara Class
 
 My research situates at the intersection between behavioural ecology and evolutionary biology: I have been studying the behaviour of wild animals from an evolutionary quantitative genetics perspective, using statistical tools such as mixed models and simulations. I am particularly interested in consistent among-individual variation (i.e. ‘animal personality’) and sexual selection, which I studied in wild birds during my PhD and first postdoc (2013-2019, University of Turku, Finland).
 
-For my second postdoc, which I started in March 2020 in Celine Frere's lab (University of the Sunshine Coast, Australia), I have been studying among-individual differences in social behaviour and  their impacts on social networks and disease transmission in an urban population of lizards.
+For my second postdoc, which started in March 2020 in Celine Frere's lab (University of the Sunshine Coast, Australia), I have been studying among-individual differences in social behaviour and  their impacts on social networks and disease transmission in an urban population of lizards.
 
 
