@@ -1,0 +1,5 @@
+@article{brommer2019multivariate,
+  title={Multivariate Mixed Models in Ecology and Evolutionary biology: Inferences and implementation in R},
+  author={Brommer, Jon and Class, Barbara and Covarrubias-Pazaran, Giovanny},
+  publisher={EcoEvoRxiv}
+}

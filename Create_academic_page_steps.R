@@ -18,7 +18,14 @@ blogdown::new_site(theme = "gcushen/hugo-academic")#This adds lots of files in t
 
 #Commit the changes in Github and fetch them online
 
+#sometimes need to stop the server and start again to see the changes implemented (when adding publications)
+blogdown::stop_server()
+blogdown:::preview_site(startup = TRUE)
 #open the r project to resume the editing
 #open the config.toml file, then:
 blogdown::serve_site()
 blogdown::build_site()
+
+#In publication rmd files, to link publications to projects
+#projects:
+#  - internal-project
