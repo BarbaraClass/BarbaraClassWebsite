@@ -18,7 +18,7 @@ interests:
 - Quantitative genetics
 - Mixed models
 - Disease ecology
-- Social networks
+- Social behaviour
 - Urban evolutionary ecology
 organizations:
 - name: Celine Frere lab, University of the Sunshine Coast

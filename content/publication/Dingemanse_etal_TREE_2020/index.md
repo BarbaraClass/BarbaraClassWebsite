@@ -19,8 +19,6 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-12-02T00:00:00Z"
-tags:
-- Source Themes
 title: Nonrandom Mating for Behavior in the Wild?
 url_code: ""
 url_dataset: ""

@@ -14,12 +14,11 @@ image:
 links:
 - name: EcoEvoRxiv
   url: https://ecoevorxiv.org/hs38a/
+projects: [Project2]
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2019-12-16T00:00:00Z"
-tags:
-- Source Themes
 title: 'Multivariate Mixed Models in Ecology and Evolutionary biology: Inferences and implementation in R'
 ---

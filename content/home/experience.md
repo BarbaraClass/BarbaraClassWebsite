@@ -27,7 +27,7 @@ experience:
     location: QLD, Australia
     date_start: '2020-03-09'
     date_end: ''
-    description: Relationships between animal personality, social networks and disease transmission in an urban lizard (Celine Frere lab)
+    description: Social behaviour and disease ecology in Eastern water dragons (Celine Frere lab)
     
   - title: Post-doctoral Researcher
     company: University of Turku

@@ -11,14 +11,12 @@ image:
   caption: 'A 16 day old blue tit nestling in poor condition'
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project2]
 publication: '*Behavioral Ecology, 31*(3) 702-710'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-03-2T00:00:00Z"
-tags:
-- Source Themes
 title: Contrasting multilevel relationships between behavior and body mass in blue tit nestlings
 url_code: ""
 url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.9ghx3ffdj"

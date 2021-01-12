@@ -13,14 +13,12 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project2]
 publication: '*Journal of Evolutionary Biology, 32*(9) 913-920'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-05-25T00:00:00Z"
-tags:
-- Source Themes
 title: Tail colour signals performance in blue tit nestlings
 url_code: ""
 url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.43sd180"

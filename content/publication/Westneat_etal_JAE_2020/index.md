@@ -27,8 +27,6 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-09-30T00:00:00Z"
-tags:
-- Source Themes
 title: Collision between biological process and statistical analysis revealed by mean centring
 url_code: ""
 url_dataset: ""
