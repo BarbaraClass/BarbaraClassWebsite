@@ -11,7 +11,7 @@ education:
   - course: BSc in Biology
     institution: University of Strasbourg (France)
     year: 2011
-email: "bclass@usc.edu.au"
+email: "barbara.a.class@gmail.com"
 interests:
 - Animal personality
 - Sexual selection
@@ -41,9 +41,11 @@ superuser: false
 title: Barbara Class
 ---
 
-I am a post-doctoral researcher interested in animal behavior and its evolution in the wild. Using long term data collected in wild vertebrate populations (birds, lizards) and a variety of mixed (quantitative genetic) models, I have been studying:
+I am a post-doctoral researcher interested in animal behavior and its evolution in the wild. Using long term data collected in wild vertebrate populations (birds, lizards) and a variety of mixed (quantitative genetic) models, I have mainly been studying:
 - consistent among-individual differences in behavior (i.e. ‘animal personality’), their potential responses to selection, and how they change over time as individuals develop and age;
 - sexual selection, in particular the processes leading to assortative mating;
-- among-individual differences in social behavior and their relationship with social networks and disease ecology.
+- Mixed models' performances when applied to the study of individual differences in plasticity and phenotypic similarity between individuals
+
+For my last postdoc, I have been exploring individual differences in social behaviour and thermal preferences, and got familiarized with social networks and disease ecology (see project 3).
 
 
