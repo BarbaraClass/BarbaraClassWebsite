@@ -5,12 +5,52 @@
     <link>https://barbaraclass.com/publication/</link>
       <atom:link href="https://barbaraclass.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://barbaraclass.com/media/BClass.png</url>
       <title>Publications</title>
       <link>https://barbaraclass.com/publication/</link>
     </image>
+    
+    <item>
+      <title>A variance partitioning perspective of assortative mating: Proximate mechanisms and evolutionary implications</title>
+      <link>https://barbaraclass.com/publication/class_dingemanse_jeb_2022/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_dingemanse_jeb_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The epidemiology and genomics of a virulent emerging fungal pathogen in an Australian reptile</title>
+      <link>https://barbaraclass.com/publication/class_etal_biorxiv_2021/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_biorxiv_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the long-term repeatability of food-hoarding behaviours in an avian predator</title>
+      <link>https://barbaraclass.com/publication/class_etal_biollett_2021/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_biollett_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonrandom Mating for Behavior in the Wild?</title>
+      <link>https://barbaraclass.com/publication/dingemanse_etal_tree_2020/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/dingemanse_etal_tree_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collision between biological process and statistical analysis revealed by mean centring</title>
+      <link>https://barbaraclass.com/publication/westneat_etal_jae_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/westneat_etal_jae_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can dominance genetic variance be ignored in evolutionary quantitative genetic analyses of wild populations?</title>
@@ -21,55 +61,99 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://barbaraclass.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Contrasting multilevel relationships between behavior and body mass in blue tit nestlings</title>
+      <link>https://barbaraclass.com/publication/class_brommer_beheco_2020/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_beheco_2020/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://barbaraclass.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Multivariate Mixed Models in Ecology and Evolutionary biology: Inferences and implementation in R</title>
+      <link>https://barbaraclass.com/publication/brommer_etal_ecoevorxiv_2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_etal_ecoevorxiv_2019/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://barbaraclass.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Exploratory behavior undergoes genotype–age interactions in a wild bird</title>
+      <link>https://barbaraclass.com/publication/class_etal_ecoevo_2019/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_ecoevo_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tail colour signals performance in blue tit nestlings</title>
+      <link>https://barbaraclass.com/publication/class_etal_jeb_2019/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_jeb_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared environmental effects bias phenotypic estimates of assortative mating in a wild bird</title>
+      <link>https://barbaraclass.com/publication/class_brommer_biollett_2018/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_biollett_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personality from the perspective of behavioral ecology</title>
+      <link>https://barbaraclass.com/publication/brommer_class_book_2017/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_class_book_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical methodology for estimating assortative mating for phenotypic traits that are labile or measured with error</title>
+      <link>https://barbaraclass.com/publication/class_etal_mee_2017/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_mee_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypic correlations capture between-individual correlations underlying behavioral syndromes</title>
+      <link>https://barbaraclass.com/publication/brommer_class_beas_2017/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_class_beas_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senescence of personality in a wild bird</title>
+      <link>https://barbaraclass.com/publication/class_brommer_beas_2016/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_beas_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of genotype-by-age interactions for the development of repeatable behavior and correlated behaviors over lifetime</title>
+      <link>https://barbaraclass.com/publication/brommer_class_frontierszool_2015/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_class_frontierszool_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A strong genetic correlation underlying a behavioural syndrome disappears during development because of genotype-age interactions</title>
+      <link>https://barbaraclass.com/publication/class_brommer_prsb_2015/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_prsb_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary quantitative genetics of behavioral responses to handling in a wild passerine</title>
+      <link>https://barbaraclass.com/publication/class_etal_ecoevo_2014/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_ecoevo_2014/</guid>
+      <description></description>
     </item>
     
   </channel>

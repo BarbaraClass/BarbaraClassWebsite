@@ -22,11 +22,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Post-doctoral Researcher
+    company: CEFE, Montpellier
+    company_url: ''
+    location: Montpellier, France
+    date_start: '2022-02-01'
+    date_end: ''
+    description: Quantitative genetic variation in urban great tits (Anne Charmantier lab)
+    
+  - title: Post-doctoral Researcher
     company: University of the Sunshine Coast
     company_url: ''
     location: QLD, Australia
     date_start: '2020-03-09'
-    date_end: ''
+    date_end: '2021-11-05'
     description: Social behaviour and disease ecology in Eastern water dragons (Celine Frere lab)
     
   - title: Post-doctoral Researcher

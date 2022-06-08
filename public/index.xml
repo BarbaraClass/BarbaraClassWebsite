@@ -75,10 +75,75 @@
     </item>
     
     <item>
+      <title>A variance partitioning perspective of assortative mating: Proximate mechanisms and evolutionary implications</title>
+      <link>https://barbaraclass.com/publication/class_dingemanse_jeb_2022/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_dingemanse_jeb_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The epidemiology and genomics of a virulent emerging fungal pathogen in an Australian reptile</title>
+      <link>https://barbaraclass.com/publication/class_etal_biorxiv_2021/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_biorxiv_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the long-term repeatability of food-hoarding behaviours in an avian predator</title>
+      <link>https://barbaraclass.com/publication/class_etal_biollett_2021/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_biollett_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonrandom Mating for Behavior in the Wild?</title>
+      <link>https://barbaraclass.com/publication/dingemanse_etal_tree_2020/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/dingemanse_etal_tree_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collision between biological process and statistical analysis revealed by mean centring</title>
+      <link>https://barbaraclass.com/publication/westneat_etal_jae_2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/westneat_etal_jae_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Can dominance genetic variance be ignored in evolutionary quantitative genetic analyses of wild populations?</title>
       <link>https://barbaraclass.com/publication/class_brommer_evolution_2020/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://barbaraclass.com/publication/class_brommer_evolution_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3: Social behaviour and disease ecology in Eastern water dragons (Post-doc 2, 2020-2021)</title>
+      <link>https://barbaraclass.com/project/project3/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/project/project3/</guid>
+      <description>&lt;p&gt;My second post-doc on urban Eastern Water dragons (EWD, &lt;em&gt;Intellagama Lesueurii&lt;/em&gt;) allowed me to extend my research to new questions at the intersection between social behaviour, disease ecology, and urban evolutionary ecology. I kept developing my skills in variance partitioning approaches (e.g. using DHGLMMs), I also started to use social network analyses combined with simulations. In particular, I have been involved in a variety of collaborative projects such as i) Assessing the virulence, dynamics and survival costs of a recent emerging infectious fungal disease in EWD (with Shweta Bansal’s lab, Georgetown University, USA);  ii) Modelling long-term social avoidances and their consequences for social network structure (with Amiyaal Ilani, Bar-Ilan University, IL); iii) Investigating the repeatability, plasticity and predictability of social behaviour, temperature, and their relationships in EWD (with Shinichi Nakagawa, UNSW, AU).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrasting multilevel relationships between behavior and body mass in blue tit nestlings</title>
+      <link>https://barbaraclass.com/publication/class_brommer_beheco_2020/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_beheco_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Mixed Models in Ecology and Evolutionary biology: Inferences and implementation in R</title>
+      <link>https://barbaraclass.com/publication/brommer_etal_ecoevorxiv_2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_etal_ecoevorxiv_2019/</guid>
       <description></description>
     </item>
     
@@ -110,7 +175,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-568732491&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-714536298&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -120,7 +185,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-568732491&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-714536298&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -347,17 +412,19 @@ You found me!
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://barbaraclass.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Exploratory behavior undergoes genotype–age interactions in a wild bird</title>
+      <link>https://barbaraclass.com/publication/class_etal_ecoevo_2019/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_ecoevo_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tail colour signals performance in blue tit nestlings</title>
+      <link>https://barbaraclass.com/publication/class_etal_jeb_2019/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_jeb_2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -534,37 +601,44 @@ Three
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://barbaraclass.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://barbaraclass.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/project/external-project/</guid>
+      <title>Shared environmental effects bias phenotypic estimates of assortative mating in a wild bird</title>
+      <link>https://barbaraclass.com/publication/class_brommer_biollett_2018/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_biollett_2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://barbaraclass.com/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Project 2: Evolutionary quantitative genetics in the wild (Post-doc 1, 2017-2019)</title>
+      <link>https://barbaraclass.com/project/project2/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/project/project2/</guid>
+      <description>&lt;p&gt;For my first post-doc, I continued to apply quantitative genetics methods to study evolutionary questions in wild birds. This project allowed me to deepen my knowledge in quantitative genetics and include a wider variety of traits, while exploring more questions related to sexual selection: i) I studied lifetime changes (genotype-age interactions) in great tits’ (&lt;em&gt;Parus major&lt;/em&gt;) exploration behaviour, in collaboration with Kees van Oers (NIOO, the Netherlands); ii) I studied the multi-level relationships between early life body mass and behaviour at fledging in blue tits; iii) I tested whether shared environmental effects can bias phenotypic estimates of assortative mating in wild blue tits;  iv) I studied the potential indirect genetic benefits of mate choice in blue tits by estimating genetic correlations between blue plumage coloration and measures of performance in nestlings; v) I estimated dominance genetic variance for various traits in blue tit nestlings and explored the consequences of ignoring it for estimating evolutionary potential in the wild.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Personality from the perspective of behavioral ecology</title>
+      <link>https://barbaraclass.com/publication/brommer_class_book_2017/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_class_book_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical methodology for estimating assortative mating for phenotypic traits that are labile or measured with error</title>
+      <link>https://barbaraclass.com/publication/class_etal_mee_2017/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_mee_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotypic correlations capture between-individual correlations underlying behavioral syndromes</title>
+      <link>https://barbaraclass.com/publication/brommer_class_beas_2017/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_class_beas_2017/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -662,40 +736,43 @@ Three
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://barbaraclass.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Senescence of personality in a wild bird</title>
+      <link>https://barbaraclass.com/publication/class_brommer_beas_2016/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_beas_2016/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://barbaraclass.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://barbaraclass.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>The importance of genotype-by-age interactions for the development of repeatable behavior and correlated behaviors over lifetime</title>
+      <link>https://barbaraclass.com/publication/brommer_class_frontierszool_2015/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/brommer_class_frontierszool_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A strong genetic correlation underlying a behavioural syndrome disappears during development because of genotype-age interactions</title>
+      <link>https://barbaraclass.com/publication/class_brommer_prsb_2015/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_brommer_prsb_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary quantitative genetics of behavioral responses to handling in a wild passerine</title>
+      <link>https://barbaraclass.com/publication/class_etal_ecoevo_2014/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/publication/class_etal_ecoevo_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 1: Evolutionary quantitative genetics of animal personality in the wild (PhD thesis, 2013-2017)</title>
+      <link>https://barbaraclass.com/project/project1/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://barbaraclass.com/project/project1/</guid>
+      <description>&lt;p&gt;My Ph.D. thesis aimed to provide a quantitative genetics overview of personality in a wild population of blue tits (&lt;em&gt;Cyanistes caeruleus&lt;/em&gt;). In the first part of my thesis, I showed that two behaviours measured during handling are heritable and under selection. The second part addressed the development of animal personality and heritable lifetime changes in behaviour. In the last part of my thesis, I developed a statistical approach to estimate assortative mating based on personality in wild populations.&lt;/p&gt;
 </description>
     </item>
     
