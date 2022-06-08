@@ -47,7 +47,7 @@ I am a post-doctoral researcher interested in animal behavior and its evolution 
 - sexual selection, in particular the processes leading to assortative mating;
 - Mixed models' performances when applied to the study of individual differences in plasticity and phenotypic similarity between individuals
 
-For my current postdoc at the CEFE (01/02/2022), I am investigating whether urban (Montpellier) and non-urban (Rouvière) great tit populations differ in their quantitative genetic variation for an array of traits and therefore in their potential to respond to selection in these two different habitats.
+For my current postdoc at the CEFE, I am investigating whether urban (Montpellier) and non-urban (Rouvière) great tit populations differ in their quantitative genetic variation for an array of traits and therefore in their potential to respond to selection in these two different habitats.
 
 
 
