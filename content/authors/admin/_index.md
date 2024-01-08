@@ -1,5 +1,5 @@
 ---
-bio: I am a postdoctoral researcher interested in the evolution of consistent behavioural differences among individuals and their ecological consequences in wild animals.
+bio: I am a postdoctoral researcher interested in among-individual differences in wild vertebrate populations. My work is at the intersection of behavioural ecology and evolutionary biology as I study questions related to animal personality, assortative mating, social behaviour, competition, and adaptation to urbanization. To do this I use a variety of mixed models, long-term data, and simulations.
 education:
   courses:
   - course: PhD in Biology
@@ -20,10 +20,11 @@ interests:
 - Mixed models
 - Social behaviour
 - Disease ecology
+- Life-history variation
 
 organizations:
-- name: CEFE, Montpellier, France
-  url: "https://www.cefe.cnrs.fr/fr/recherche/ee/esp/777-c/194-anne-charmantier"
+- name: Ludwig-Maximilians Universität, Munich, Germany
+  url: "https://www.behavioural-ecology.bio.lmu.de/research/index.html"
 role: Post-doctoral researcher
 social:
 - icon: envelope
@@ -42,12 +43,5 @@ superuser: false
 title: Barbara Class
 ---
 
-I am a post-doctoral researcher interested in animal behavior and its evolution in the wild. Using long term data collected in wild vertebrate populations (birds, lizards) and a variety of mixed (quantitative genetic) models, I have been studying:
-- consistent among-individual differences in behavior (i.e. ‘animal personality’), their potential responses to selection, and how they change over time as individuals develop and age;
-- sexual selection, in particular the processes leading to assortative mating;
-- Mixed models' performances when applied to the study of individual differences in plasticity and phenotypic similarity between individuals
-
-For my current postdoc at the CEFE, I am investigating whether urban (Montpellier) and non-urban (Rouvière) great tit populations differ in their quantitative genetic variation for an array of traits and therefore in their potential to respond to selection in these two different habitats.
-
-
+I am a postdoctoral researcher interested in among-individual differences in wild vertebrate populations. My work is at the intersection of behavioural ecology and evolutionary biology as I study questions related to animal personality, assortative mating, social behaviour, competition, and adaptation to urbanization. To do this I use a variety of mixed models, long-term data, and simulations.
 
